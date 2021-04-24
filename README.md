@@ -12,3 +12,4 @@ https://webMarvick.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jesse H.
+### ©️2019 Run Buddy, Inc 
